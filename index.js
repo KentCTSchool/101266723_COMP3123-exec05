@@ -1,10 +1,7 @@
-const { response } = require('express');
 const express = require('express');
 const app = express();
 const router = express.Router();
 const fs = require('fs');
-const { stringify } = require('querystring');
-
 /*
 - Create new html file name home.html 
 - add <h1> tag with message "Welcome to ExpressJs Tutorial"
