@@ -11,6 +11,7 @@
   "author": "Pritesh Patel - Exercise Lab 05",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
   }
 }
